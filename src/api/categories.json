@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "title": "Su & İçecek",
+    "image": "https://market-product-images-cdn.getirapi.com/category/5309b06e-89a6-4bee-9232-243d6bc4870f.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Meyve & Sebze",
+    "image": "https://market-product-images-cdn.getirapi.com/category/ec6b45ae-fc6f-4928-9dcb-9f9af458fc33.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Fırından",
+    "image": "https://market-product-images-cdn.getirapi.com/category/47dd2418-2493-47cb-a8c4-4ea55ff035b2.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Temel Gıda",
+    "image": "https://market-product-images-cdn.getirapi.com/category/61c0bc21-f9c2-4a1a-ac9a-cbe168a3dc5d.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Atıştırmalık",
+    "image": "https://market-product-images-cdn.getirapi.com/category/8f03636f-9bd2-4769-8427-279915e4c33f.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Dondurma",
+    "image": "https://market-product-images-cdn.getirapi.com/category/8d9316c4-8810-470b-af14-490047854534.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Süt Ürünleri",
+    "image": "https://market-product-images-cdn.getirapi.com/category/00291222-f892-40f7-ae73-805d0fcff0ec.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Kahvaltılık",
+    "image": "https://market-product-images-cdn.getirapi.com/category/8b3ca6ef-879c-44e9-885b-9bdf1a7c2d03.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Yiyecek",
+    "image": "https://market-product-images-cdn.getirapi.com/category/da88cf5c-badb-4114-ac60-d2eab214fcc5.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Fit & Form",
+    "image": "https://market-product-images-cdn.getirapi.com/category/b6a1cabf-a848-46f1-9a8a-862dba8657c2.jpeg"
+  },
+  {
+    "id": 11,
+    "title": "Kişisel Bakım",
+    "image": "https://market-product-images-cdn.getirapi.com/category/6a82d3cd-7e98-490c-948b-98a74929af8c.jpeg"
+  },
+  {
+    "id": 12,
+    "title": "Ev Bakım",
+    "image": "https://market-product-images-cdn.getirapi.com/category/6c63f668-cec4-48a4-bd57-66c87dc0df93.jpeg"
+  },
+  {
+    "id": 13,
+    "title": "Ev & Yaşam",
+    "image": "https://market-product-images-cdn.getirapi.com/category/cbbc82b3-dfef-43e8-a1a0-778002cc77ff.jpeg"
+  },
+  {
+    "id": 14,
+    "title": "Teknoloji",
+    "image": "https://market-product-images-cdn.getirapi.com/category/71f10e45-7d0e-4484-b8d1-1b1e2dd1ec22.jpeg"
+  },
+  {
+    "id": 15,
+    "title": "Evcil Hayvan",
+    "image": "https://market-product-images-cdn.getirapi.com/category/2c53a233-5a7d-405b-9cb5-e0ae64b59fb4.jpeg"
+  },
+  {
+    "id": 16,
+    "title": "Bebek",
+    "image": "https://market-product-images-cdn.getirapi.com/category/711050f1-d642-4c03-967c-7a26d1d2357d.jpeg"
+  },
+  {
+    "id": 17,
+    "title": "Cinsel Sağlık",
+    "image": "https://market-product-images-cdn.getirapi.com/category/cbb7ca4c-f1df-42d7-85be-997555f556e8.jpeg"
+  }
+]
